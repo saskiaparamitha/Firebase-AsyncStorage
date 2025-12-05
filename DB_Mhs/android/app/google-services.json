@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926765211836",
+    "project_id": "db-mhs-firebase",
+    "storage_bucket": "db-mhs-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926765211836:android:d799024f734c06121bb0b9",
+        "android_client_info": {
+          "package_name": "com.db_mhs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AtWzt2ax9CfvXdVHiy-8ip4P3aez3os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
